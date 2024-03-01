@@ -1,0 +1,21 @@
+{
+  "name": "kit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.ts",
+  "files": [
+    "src/**/*"
+  ],
+  "keywords": [
+    "test"
+  ],
+  "repository": {
+    "url": "https://github.com/zojgame/kit.git",
+    "type": "git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zojgame",
+  "license": "ISC"
+}
