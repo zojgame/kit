@@ -1,11 +1,16 @@
 {
-  "name": "kit",
+  "name": "test-kit-12",
   "version": "1.0.0",
   "description": "",
   "main": "src/index.ts",
   "files": [
     "src/**/*"
   ],
+  "exports": {
+    ".": {
+      "import": "./src/index.ts"
+    }
+  },
   "keywords": [
     "test"
   ],
@@ -16,6 +21,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "zojgame",
+  "author": "zojgame002",
   "license": "ISC"
 }

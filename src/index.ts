@@ -1,2 +1,2 @@
 // export default {}
-export {ButtonU} from "./Button";
+export {default as ButtonU} from "./Button";   

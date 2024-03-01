@@ -1,4 +1,4 @@
-export const ButtonU = () => {
+const ButtonU = () => {
   return (
     <>
       <div>Test Button</div>
@@ -6,4 +6,4 @@ export const ButtonU = () => {
   );
 };
 
-// export default ButtonU;
+export default ButtonU;
